@@ -30,7 +30,7 @@
 ## 5. 댓글
 <img width="509" alt="comment" src="https://user-images.githubusercontent.com/51073778/227142233-43caef70-08c3-423b-ad35-b87c8919fb9f.png">
 
-게시글 상세 페이지에서 댓글을 작성할 수 있습니다. 게시글의 수정 삭제 또한 가능합니다.
+게시글 상세 페이지에서 댓글을 작성할 수 있습니다. 댓글의 수정 삭제 또한 가능합니다.
 
 ## 6. 메인 뷰
 <img width="558" alt="mainView" src="https://user-images.githubusercontent.com/51073778/227142483-675d75cd-bb61-4f79-8d37-8e3f184c4cf8.png">
